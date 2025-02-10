@@ -1,6 +1,14 @@
-# 👋 Hi, I'm Finn!
+# AssistBot
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1314991090616766564)](https://discord.com/users/1314991090616766564)
+AssistBot ist ein leistungsstarker Bot für Discord, der benutzerfreundliche Automatisierungen und Support-Funktionen bietet.
 
-## GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=xavoyx&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavoyx&layout=compact&theme=github_dark) 
+## Features
+- 🛠️ Automatisierte Moderation  
+- 🤖 Intelligente Befehle & Antworten  
+- 📊 Logging & Analyse  
+- 🔗 Integration mit externen Diensten  
+
+## Installation
+1. **Clone das Repository:**  
+   ```sh
+   git clone https://github.com/dein-nutzername/AssistBot.git
