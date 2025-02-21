@@ -12,4 +12,4 @@
 - Status: http://45.131.111.82:3001/status/assistbot
 
 ## 🔭GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=xavoyx&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavoyx&layout=compact&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xavoyx&show_icons=true&theme=blue_navy) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavoyx&layout=compact&theme=blue_navy)
