@@ -3,7 +3,7 @@
 ## 🏝️Über mich
 💻 Ich bin ein leidenschaftlicher Entwickler mit Fokus auf Discord-Bots und Web-Apps.
 
-### 🛠️Discord
+## 🛠️Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1314991090616766564)](https://discord.com/users/1314991090616766564)
 
 ## 📁AssistBot
