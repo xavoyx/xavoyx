@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Finn!
 
 ## 🛠️Discord
-[![Discord Presence]( https://api.lanyard.rest/v1/users/1314991090616766564)](https://discord.com/users/1314991090616766564)
+[![Discord Presence]( https://api.lanyard.rest/v1/users/:1314991090616766564)](https://discord.com/users/1314991090616766564)
 
 
 ## 🔭GitHub Stats
