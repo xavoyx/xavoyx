@@ -1,9 +1,5 @@
 # 👋🏼 Hey, ich bin Xavo!
-
-Willkommen auf meinem GitHub-Profil! Ich bin leidenschaftlicher Developer mit Fokus auf Discord-Bots, Webentwicklung und Automatisierungen. Aktuell arbeite ich an spannenden Projekten rund um Discord, Python und moderne Web-Technologien.
-
 ---
-
 ## 🌐 Meine Präsenz auf Discord
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1314991090616766564)](https://discord.com/users/1314991090616766564)
