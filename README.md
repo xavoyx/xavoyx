@@ -7,8 +7,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,nodejs,pycharm,webstorm,discord)](https://skillicons.dev)
 
----
-
 ## 📊 GitHub Stats
 
 ![Xavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavoyx&show_icons=true&theme=tokyonight&hide_title=true)  
