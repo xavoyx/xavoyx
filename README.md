@@ -9,5 +9,4 @@
 
 ## 📊 GitHub Stats
 
-![Xavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavoyx&show_icons=true&theme=tokyonight&hide_title=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xavoyx&hide=javascript,html&layout=compact&theme=tokyonight)
+![Xavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavoyx&show_icons=true&theme=tokyonight&hide_title=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xavoyx&hide=javascript,html&layout=compact&theme=tokyonight)
