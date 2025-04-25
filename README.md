@@ -3,9 +3,13 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1314991090616766564)](https://discord.com/users/1314991090616766564)
 
+<div align="center">
+  <table>
 ## 💻 Tech Stack & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=python,nodejs,pycharm,webstorm,discord)](https://skillicons.dev)
+</table>
+</div>
 
 ## 📊 GitHub Stats
 
