@@ -7,4 +7,5 @@
 [![My Skills](https://skillicons.dev/icons?i=python,nodejs,pycharm,webstorm,discord)](https://skillicons.dev)
 
 ## GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=xavoyx&theme=tokyonight)](https://git.io/streak-stats)
 ![xavoyx's Stats](https://github-readme-stats.vercel.app/api?username=xavoyx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) ![xavoyx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xavoyx&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
