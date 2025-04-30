@@ -7,4 +7,4 @@
 [![My Skills](https://skillicons.dev/icons?i=python,nodejs,pycharm,webstorm,discord)](https://skillicons.dev)
 
 ## GitHub Stats
-![xavoyx's Stats](https://github-readme-stats.vercel.app/api?username=xavoyx&theme=blueberry&show_icons=true&hide_border=true&count_private=true) ![xavoyx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xavoyx&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
+![xavoyx's Stats](https://github-readme-stats.vercel.app/api?username=AsstistBot&theme=blueberry&show_icons=true&hide_border=true&count_private=true) ![xavoyx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xavoyx&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
