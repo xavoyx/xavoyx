@@ -10,7 +10,7 @@
 
 ## Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,nodejs,pycharm,webstorm,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pycharm,webstorm,discord)](https://skillicons.dev)
 
 ## GitHub Stats
 
