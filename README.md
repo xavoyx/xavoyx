@@ -8,6 +8,8 @@
   </div>
 </div>
 
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1z560.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
 ## GitHub Stats
 
 ![xavoyx's Stats](https://github-readme-stats.vercel.app/api?username=xavoyx&theme=blueberry&show_icons=true&hide_border=true&count_private=true) ![xavoyx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xavoyx&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
