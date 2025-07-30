@@ -11,6 +11,4 @@ Nur ein ganz normaler Typ, der zu viel Zeit im Internet verbringt (;
 </div>
 
 ## 📊 Meine Stats
-![xavoyx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xavoyx&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
-
-![xavoyx's Stats](https://github-readme-stats.vercel.app/api?username=xavoyx&theme=blueberry&show_icons=true&hide_border=true&count_private=true) 
+![xavoyx's Stats](https://github-readme-stats.vercel.app/api?username=xavoyx&theme=blueberry&show_icons=true&hide_border=true&count_private=true) ![xavoyx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xavoyx&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
