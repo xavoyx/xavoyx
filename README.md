@@ -1,4 +1,4 @@
-# 👋 Hey, ich bin Xavo!
+# 👋 Hey, ich bin Finn!
 Nur ein ganz normaler Typ, der zu viel Zeit im Internet verbringt (;
 
 ## 🪛 Discord
