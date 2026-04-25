@@ -1,20 +1,17 @@
-# 👋 Hey, ich bin Finn!
-Ein ganz normaler Typ, der gefühlt ein bisschen *zu viel* Zeit im Internet verbringt 😉
+# Finn
 
-🚀 **Aktuell lerne ich coden** und fokussiere mich dabei auf **JavaScript** und **TypeScript**.  
-Ich arbeite an kleinen Projekten, sammle Erfahrung und versuche, mich stetig zu verbessern.
+Developer focused on JavaScript and TypeScript. 
+Building projects, writing code, and continuously expanding my technical skills.
 
-## 🪛 Discord
-<div style="display: flex; justify-content: center; align-items: center;">
+## Stack & Focus
+- JavaScript
+- TypeScript
+
+## Connect
+<div style="display: flex; justify-content: flex-start; align-items: center;">
   <div style="background-color: #2f3136; padding: 10px; border-radius: 10px; width: fit-content;">
     <a href="https://discord.com/users/1314991090616766564">
       <img src="https://lanyard.cnrad.dev/api/1314991090616766564" alt="Discord Presence">
     </a>
   </div>
 </div>
-
----
-
-## 📚 Aktuell am Lernen
-- JavaScript 🚀
-- TypeScript 🧠
