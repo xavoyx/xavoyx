@@ -1,11 +1,4 @@
-# Finn
-
-Developer focused on JavaScript and TypeScript. 
-Building projects, writing code, and continuously expanding my technical skills.
-
-## Stack & Focus
-- JavaScript
-- TypeScript
+# Xavo
 
 ## Connect
 <div style="display: flex; justify-content: flex-start; align-items: center;">
