@@ -1,4 +1,4 @@
-# Xavo
+# Hey, ich bin Finn👋
 <div style="display: flex; justify-content: flex-start; align-items: center;">
   <div style="background-color: #2f3136; padding: 10px; border-radius: 10px; width: fit-content;">
     <a href="https://discord.com/users/1314991090616766564">
